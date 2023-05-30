@@ -1,0 +1,12 @@
+.alert{
+  margin-bottom:0;
+}
+
+.card-group{
+  padding: 20px;
+}
+
+.card img{
+  aspect-ratio: 1;
+  object-fit: cover;
+}
